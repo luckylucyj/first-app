@@ -13,11 +13,11 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
     <App />
-    <Test1></Test1>
+    {/* <Test1></Test1>
     <HandlerEx></HandlerEx>
     <HandlerEx2></HandlerEx2>
     <HandlerEx3></HandlerEx3>
-    <HandlerEx4></HandlerEx4>
+    <HandlerEx4></HandlerEx4> */}
   </>
 );
 
